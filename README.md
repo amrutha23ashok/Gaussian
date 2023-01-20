@@ -54,7 +54,7 @@ for i in range(n):
 ~~~  
 ## Output:
 
-![](./O1.png)
+![output](./O1.png)
 
 
 ## Result:
